@@ -36,7 +36,7 @@ hostname3 group_name2
 Example 4: Get all hosts of groups that start with group_*
 ```
 get_host_env.sh group_*
-hostname3 group_name1
+hostname1 group_name1
 hostname2 group_name1
 hostname3 group_name2
 ```
@@ -46,5 +46,5 @@ Example 4: Get all hosts that start with hostname* and their group
 get_host_env.sh hostname*
 hostname1 group_name1
 hostname2 group_name1
-hostname3 group_name3
+hostname3 group_name2
 ```
