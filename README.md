@@ -6,11 +6,13 @@ How it works:
 My inventory has the form of 
 
 [group_name1]
-* hostname1
-*hostname2
+hostname1
+
+hostname2
 
 [group_name2]
-* hostname3
+
+hostname3
 
 
 Example 1: Get all hosts and the group for each host
