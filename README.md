@@ -6,6 +6,7 @@ How it works:
 My inventory has the form of 
 
 [group_name1]
+
 hostname1
 
 hostname2
